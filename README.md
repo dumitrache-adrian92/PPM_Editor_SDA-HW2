@@ -1,4 +1,4 @@
-CLI based PPM editor with the following features:
+CLI based PPM editor with the following features (done using quadtrees):
 - image compression into a very compact file that can be later turned back into a compressed image (basically useful for storage)
 - conversion of the previously mentioned format into a usable compressed image (that takes less space than the original, but more than the file)
 - horizontal and vertical rotation
